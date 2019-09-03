@@ -32,7 +32,8 @@
 }
 
 .layui-tab-title li{
-	padding:0 5px;
+	/* padding:0 5px; */
+	padding:0 8px; /*190903*/
 }
 
 .layui-tab-title li .layui-tab-close{
